@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Case Files</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<main class="shell">
+<header><div class="brand"><span>◈</span> CASE FILES</div><div class="tag">UNSOLVED INCIDENT</div></header>
+<section class="hero">
+<div class="case-label">CASE FILE</div>
+<h1>The Missing <em>{{ITEM}}</em></h1>
+<p>Four suspects. Four statements. Four independent records. Find the statement that does not match the evidence.</p>
+</section>
+<section class="facts">
+<div><small>LOCATION</small><strong>⌖ {{PLACE}}</strong></div>
+<div><small>POSSIBLE MOTIVE</small><strong>◆ {{MOTIVE}}</strong></div>
+<div><small>STATUS</small><strong class="active">● INVESTIGATING</strong></div>
+</section>
+<section class="content">
+<article class="panel"><div class="title"><span>01</span> EVIDENCE</div><ul>{{CLUES}}</ul></article>
+<article class="panel"><div class="title"><span>02</span> SUSPECTS</div>
+<div class="suspects">{{SUSPECTS}}</div>
+<p class="hint">Every suspect appears in the evidence. Compare each statement with its independent record.</p></article>
+</section>
+<section id="result" class="result hidden"><div id="result-icon"></div>
+<div><b id="result-title"></b><p id="result-text"></p></div></section>
+<footer><button onclick="location.reload()">NEW CASE <span>↗</span></button>
+<span>Every suspect gets evidence • No name is a clue by itself</span></footer>
+</main>
+<script>const culprit = "{{CULPRIT}}";</script>
+<script src="/script.js"></script>
+</body>
+</html>
