@@ -44,3 +44,21 @@ For three suspects, the statement and record match.
 
 For the culprit, they do not.
 
+### Example
+
+```text
+Alex
+Statement: Hotel
+Record:    Hotel
+
+Sara
+Statement: Museum
+Record:    Museum
+
+Daniel
+Statement: Cafe
+Record:    Office   ← Contradiction
+
+Emma
+Statement: Gallery
+Record:    Gallery
