@@ -14,3 +14,33 @@ The goal is simple:
 
 ---
 
+## 🎮 Features
+
+- 🔍 Procedurally generated detective cases
+- 👥 4 suspects in every case
+- 📋 Randomized statements and evidence
+- 🎲 Random suspects, locations, items, and motives
+- 🔀 Shuffled evidence for every case
+- 🧠 Logic-based culprit identification
+- ♾️ Replayable cases
+- 🌐 Browser-based interface
+- 🎨 Custom HTML/CSS interface
+- ⚡ JavaScript-powered interaction
+- 🐍 Python-powered case generation
+- 📦 No external Python packages required
+
+---
+
+## 🧩 How It Works
+
+Each case contains four suspects.
+
+Every suspect has:
+
+1. A statement describing where they were.
+2. An independent record confirming their location.
+
+For three suspects, the statement and record match.
+
+For the culprit, they do not.
+
