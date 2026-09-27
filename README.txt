@@ -1,4 +1,3 @@
-Run: python case_files.py
-Open: http://localhost:8000
+# 🕵️ Infinite Case Files
 
-Files: case_files.py, index.html, style.css, script.js
+> A procedural detective game built with Python, HTML, CSS, and JavaScript.
