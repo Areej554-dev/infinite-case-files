@@ -62,3 +62,14 @@ Record:    Office   ← Contradiction
 Emma
 Statement: Gallery
 Record:    Gallery
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Areej554-dev/infinite-case-files.git
+
+Open your web browser and enter:
+
+http://localhost:8000
