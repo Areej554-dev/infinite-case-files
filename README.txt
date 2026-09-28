@@ -20,9 +20,9 @@ The player investigates a group of suspects, their statements, and independent r
 - 🎲 Random suspects, locations, items, and motives
 - 🔀 Shuffled evidence for every case
 - 🧠 Logic-based culprit identification
-- ♾️ Replayable cases
+- ♾️ Endlessly replayable
 - 🌐 Browser-based interface
-- 🎨 Custom HTML/CSS interface
+- 🎨 Custom HTML/CSS design
 - ⚡ JavaScript-powered interaction
 - 🐍 Python-powered case generation
 - 📦 No external Python packages required
