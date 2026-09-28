@@ -64,11 +64,32 @@ In this case, **Daniel** is the culprit: he said he was at the cafe, but the rec
 
 ## 🚀 How to Run
 
+### Requirements
+
+- Python 3.8 or newer
+- Any modern web browser
+
 ### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Areej554-dev/infinite-case-files.git
+cd infinite-case-files
+```
 
-Open your web browser and enter:
+### 2. Start the game
 
+```bash
+python app.py
+```
+
+> Replace `app.py` with the name of your main Python file if it is different.
+
+### 3. Open it in your browser
+
+Go to:
+
+```text
 http://localhost:8000
+```
+
+---
