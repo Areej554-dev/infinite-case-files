@@ -93,3 +93,27 @@ http://localhost:8000
 ```
 
 ---
+## 🕹️ How to Play
+
+1. Read each suspect's statement.
+2. Compare it with the independent record.
+3. Find the suspect whose statement does not match the evidence.
+4. Select that suspect as the culprit.
+5. Start a new case and play again, as many times as you like.
+
+---
+
+## 🛠️ Built With
+
+- **Python**: case generation
+- **HTML**: structure
+- **CSS**: styling
+- **JavaScript**: game interaction
+
+---
+
+## 🤝 Contributing
+
+Ideas and improvements are welcome. Feel free to open an issue or submit a pull request.
+
+Made with ❤️ by [Areej](https://github.com/Areej554-dev)
