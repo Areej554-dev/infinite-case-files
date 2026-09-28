@@ -31,16 +31,12 @@ The player investigates a group of suspects, their statements, and independent r
 
 ## 🧩 How It Works
 
-Each case contains four suspects.
+Each case contains four suspects. Every suspect has:
 
-Every suspect has:
+1. **A statement** describing where they claim to have been.
+2. **An independent record** confirming where they actually were.
 
-1. A statement describing where they were.
-2. An independent record confirming their location.
-
-For three suspects, the statement and record match.
-
-For the culprit, they do not.
+For three suspects, the statement and the record match. For the culprit, they do not.
 
 ### Example
 
