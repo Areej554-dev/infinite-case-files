@@ -56,6 +56,11 @@ Record:    Office   ← Contradiction
 Emma
 Statement: Gallery
 Record:    Gallery
+```
+
+In this case, **Daniel** is the culprit: he said he was at the cafe, but the record places him at the office.
+
+---
 
 ## 🚀 How to Run
 
